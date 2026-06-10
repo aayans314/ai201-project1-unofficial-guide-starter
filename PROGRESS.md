@@ -9,8 +9,8 @@ Working checklist for Project 1 (The Unofficial Guide). Checking things off as t
 
 ## Milestones
 
-- [ ] M1: Choose domain + collect 10+ documents (raw text in `documents/`)
-- [ ] M2: planning.md complete (all sections, before pipeline code)
+- [x] M1: Choose domain + collect 10+ documents (19 docs: 13 r/Colby threads via PullPush + 6 RMP professor review sets via GraphQL, raw JSON in `data_raw/`)
+- [x] M2: planning.md complete (all sections, before pipeline code)
 - [ ] M3: Ingestion + cleaning + chunking pipeline, chunks inspected
 - [ ] M4: Embedding + ChromaDB + retrieval tested on 3+ eval queries
 - [ ] M5: Grounded generation + source attribution + Gradio interface
@@ -45,10 +45,11 @@ Working checklist for Project 1 (The Unofficial Guide). Checking things off as t
 - [ ] Sample interaction transcript (complete query + response)
 
 ### planning.md (4)
-- [ ] Domain: named + why hard to find officially
-- [ ] Documents (10+ specific) / Chunking (size, overlap, fit) / Retrieval (model, top-k, tradeoffs)
-- [ ] Evaluation plan: 5 specific verifiable Q&A pairs
-- [ ] 2+ anticipated challenges / AI tool plan naming components
+- [x] Domain: named + why hard to find officially
+- [x] Documents (10+ specific) / Chunking (size, overlap, fit) / Retrieval (model, top-k, tradeoffs)
+- [x] Evaluation plan: 5 specific verifiable Q&A pairs
+- [x] 2+ anticipated challenges / AI tool plan naming components
+- [x] Stretch features planned in planning.md before implementation
 
 ### README Completeness (3)
 - [ ] Domain, sources, chunking, embedding, grounding all covered

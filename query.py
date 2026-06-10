@@ -71,8 +71,12 @@ def _cited_sources(answer: str, hits: list[dict]) -> list[dict]:
     return unique
 
 
-def ask(question: str, k: int = 5) -> dict:
-    hits = retrieve(question, k=k)
+def ask(question: str, k: int = 5, hybrid: bool = False) -> dict:
+    if hybrid:
+        from hybrid_search import hybrid_retrieve  # stretch feature
+        hits = hybrid_retrieve(question, k=k)
+    else:
+        hits = retrieve(question, k=k)
     response = _client().chat.completions.create(
         model=MODEL,
         temperature=0.2,

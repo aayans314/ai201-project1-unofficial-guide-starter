@@ -1,0 +1,28 @@
+TITLE: Rate My Professors reviews of Oliver Layton (Computer Science, Colby College)
+SOURCE: https://www.ratemyprofessors.com/professor/2442672
+TYPE: rmp_reviews
+DATE: 2026-06
+
+SUMMARY: Professor Oliver Layton (Computer Science) has an average rating of 4.7/5 across 11 Rate My Professors reviews, with an average difficulty of 3.4/5.
+
+REVIEW (CS343, 2026-04): Professor that actually teaches for you to understand. [Quality: 5/5, Difficulty: 2/5] [Tags: Amazing lectures , Clear grading criteria, Accessible outside class]
+
+REVIEW (CS343, 2025-02): I literally still think about him after graduating 2-3 years ago. I'm writing this post right now as I'm sitting in a graduate-level deep learning class because I miss him so much. He is such a good teacher & manages to distill complex topics to students effortlessly (not happening here at MIT/Harvard) lol... He cares about helping you learn. [Quality: 5/5, Difficulty: 5/5] [Tags: Amazing lectures , Caring, Accessible outside class]
+
+REVIEW (CS343, 2022-10): I'M HIGH ON OLIVER... he's such a wonderful and caring professor who makes advanced topics (neural network/machine learning) very digestible. Makes me become genuinely interested in the subject and motivated to learn more. [Quality: 5/5, Difficulty: 4/5]
+
+REVIEW (CS251, 2020-04): Really nice professor. Super cool guy. He teaches really practical stuff and you will feel like you truly learned a lot from his class. As a CS professor he could even teaches us a lot of related math concepts. [Quality: 5/5, Difficulty: 4/5] [Tags: Gives good feedback, Respected, Accessible outside class]
+
+REVIEW (CS231, 2019-11): Oliver is amazing! His lectures are VERY well-organized. Plus, I've never seen any professor who responds email quicker than he does. I took my first CS course at Colby with him and truly ENJOYED everything! He's being super supportive and is always willing to help you outside class. He's also a very nice guy to talk to. [Quality: 5/5, Difficulty: 3/5] [Tags: Accessible outside class, Amazing lectures, Caring]
+
+REVIEW (CS151, 2019-11): My first contact with computer science. I loved it. Professor Layton was incredibly supportive. I don't have anything to compare it to, but I really enjoyed lectures. He would keep us interested by having us work through the slides with him, give projects fun names, and even play an easy little computer science game on the screen to wake us up. [Quality: 5/5, Difficulty: 3/5] [Tags: Accessible outside class, Caring]
+
+REVIEW (CS343, 2019-10): Oliver is the best lecturer at Colby for CS, hands-down. He can get me excited about the math of a neural network and make me think "damn, convolution is really cool." Also very knowledgeable, personable, and humble [Quality: 5/5, Difficulty: 4/5] [Tags: Group projects, Clear grading criteria, Amazing lectures]
+
+REVIEW (CS151, 2019-02): A good hire by the CS dept! Caring about students, very nice/friendly to talk to. Sometimes he goes a bit confusing in lectures but he will provide clear powerpoints and codes after class to help you study. He's better in labs/helping you out with projects. Anticipate long queue for office hrs but that's the thing for cs Dept. Will take again! [Quality: 4/5, Difficulty: 3/5] [Tags: Accessible outside class, Caring]
+
+REVIEW (CS231, 2018-12): He's a new professor but he's wonderful! Super caring and accessible, and always willing to help. He's a very nice and knowledgable guy and I would highly recommend taking classes with him [Quality: 5/5, Difficulty: 3/5] [Tags: ACCESSIBLE OUTSIDE CLASS, Clear grading criteria, Caring]
+
+REVIEW (CS151, 2018-12): Oliver was a good Professor. I took notes in class to help stay focused, but he posts all the slide shows he uses on the course website. We had a quiz every Friday, but as long as you understood what he taught during the week they werent very hard. [Quality: 4/5, Difficulty: 3/5] [Tags: ACCESSIBLE OUTSIDE CLASS, Clear grading criteria]
+
+REVIEW (CS151, 2018-12): He is new here but he is very supportive. He gives clear lectures and will code with his students on class. He provides clear slides and python files in his website. Some times it's hard to ask questions because there too many students. But that is what's going on in CS department. Many students. He is also cute and holds activities in hillside. [Quality: 4/5, Difficulty: 2/5] [Tags: Gives good feedback]

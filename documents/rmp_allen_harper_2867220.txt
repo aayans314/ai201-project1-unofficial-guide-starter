@@ -1,0 +1,18 @@
+TITLE: Rate My Professors reviews of Allen Harper (Computer Science, Colby College)
+SOURCE: https://www.ratemyprofessors.com/professor/2867220
+TYPE: rmp_reviews
+DATE: 2026-06
+
+SUMMARY: Professor Allen Harper (Computer Science) has an average rating of 3.7/5 across 6 Rate My Professors reviews, with an average difficulty of 3.2/5.
+
+REVIEW (CS152, 2025-07): He explains the concepts well. You have to do extra things on projects to get 90+, but I think it's not too hard; sometimes a simple matplotlib will do. His exams are manageable. He's not too helpful when it comes to debugging code; you need to help yourself in most cases. Be extra detailed with the reports and projects if you want a good grade [Quality: 4/5, Difficulty: 3/5] [Tags: Tough grader, Accessible outside class]
+
+REVIEW (CS152, 2025-03): Projects can receive at most a B+ unless you go above and beyond depending on how "awesome" your above and beyond is. He gives tests and quizzes on things that you will not be taught in class or on homework. Provides no feedback when asking questions or attending office hours. [Quality: 1/5, Difficulty: 5/5] [Tags: Tough grader, Lots of homework]
+
+REVIEW (CS152, 2025-02): Dont agree with all the glazing comments - wasnt too helpful imo [Quality: 2/5, Difficulty: 1/5]
+
+REVIEW (CS231, 2024-11): Very kind professor! He cares a lot about his students and makes lectures less boring, especially for data structures. As for homework, this class has standard project-style homework for all classes regardless of the professor, so there are no complaints to him for heavy projects (it's just the nature of the course). [Quality: 5/5, Difficulty: 3/5] [Tags: Gives good feedback, Caring]
+
+REVIEW (CS152, 2023-05): Professor Harper is caring and enthusiastic and finds joy in teaching the material. His lectures are helpful and lab sessions make it easy to actually learn that material. Your grade is from quizzes, collaborative projects, and a final exam. He is super helpful on the weekly projects and is truly the best! [Quality: 5/5, Difficulty: 3/5] [Tags: Clear grading criteria, Gives good feedback, Lots of homework]
+
+REVIEW (CS152, 2023-02): Allen is the most enthusiastic professor you can ever have. He is super understanding and caring. He always has a smile on his face. Some might say he is not the best lecturer but he was a great lecturer imo cause he always knows how to keep the lecture fun and interesting. He is a great professor to take the intro to CS class from. [Quality: 5/5, Difficulty: 4/5] [Tags: Inspirational, Hilarious, Caring]

@@ -1,0 +1,20 @@
+TITLE: Rate My Professors reviews of Bilal Ahmad (Computer Science, Colby College)
+SOURCE: https://www.ratemyprofessors.com/professor/1841040
+TYPE: rmp_reviews
+DATE: 2026-06
+
+SUMMARY: Professor Bilal Ahmad (Computer Science) has an average rating of 4.3/5 across 11 Rate My Professors reviews, with an average difficulty of 2.6/5.
+
+REVIEW (CS151, 2025-03): Can't believe it's been ten years, hmu if u see this [Quality: 5/5, Difficulty: 3/5] [Tags: Amazing lectures , Gives good feedback, Accessible outside class]
+
+REVIEW (CS231, 2018-04): already miss him, he needs to teach more at Colby! [Quality: 5/5, Difficulty: 4/5] [Tags: Gives good feedback, Respected, Caring]
+
+REVIEW (CS151, 2014-01): Professor Bilal is the master of artful teaching, his forte being the vast intricately connected field of CS. I salute professor Bilal and envy his understanding of the bits of this seemingly lifeless metal boxes with copper and silicon body parts. [Quality: 5/5, Difficulty: 2/5]
+
+REVIEW (CS151, 2013-10): Bilal was the reason I passed CS 151. He is one of the best tutor/assistant prof. in the department. He's the one in the lab willing to help during the late hours of the night when everything goes wrong with your code. His explanations/directions are crystal clear and easy to follow. If he taught a class, I would definitely sign up to take it [Quality: 5/5, Difficulty: 2/5]
+
+REVIEW (GERMAN, 2013-10): Did not learn any german. Was very confused. Spoke German in English. [Quality: 1/5, Difficulty: 5/5]
+
+REVIEW (CS231, 2013-10): He also sleeps with guys, but still very helpful. [Quality: 5/5, Difficulty: 1/5]
+
+REVIEW (CS151, 2013-10): Professor Ahmad is the best! Although I think he might be sleeping with some of the students, he's always willing to "help" and definitely knows his way around a computer! Super easy, for sure. [Quality: 5/5, Difficulty: 1/5]

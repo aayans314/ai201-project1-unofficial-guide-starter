@@ -1,0 +1,14 @@
+TITLE: Rate My Professors reviews of Maximillian Bender (Computer Science, Colby College)
+SOURCE: https://www.ratemyprofessors.com/professor/2899686
+TYPE: rmp_reviews
+DATE: 2026-06
+
+SUMMARY: Professor Maximillian Bender (Computer Science) has an average rating of 4.9/5 across 8 Rate My Professors reviews, with an average difficulty of 3.3/5.
+
+REVIEW (CS231, 2024-01): Really fantastic guy, super clear with work and class expectations, always willing to help outside class [Quality: 5/5, Difficulty: 3/5] [Tags: Clear grading criteria, Gives good feedback, Inspirational]
+
+REVIEW (CS231, 2023-06): If you can take a class with Max, do it. He scares me sometimes but he is no doubt a great teacher. He has a good amount of office hours and helps out quickly and efficiently. Makes CS231 hard, but fair and rewarding. [Quality: 5/5, Difficulty: 4/5] [Tags: Gives good feedback, Accessible outside class]
+
+REVIEW (CS231, 2023-05): Awesome professor! Lectures are great, and even though the course content can be difficult and the class moves really fast, he makes everything flow seamlessly. Very accessible outside of class, including online in a well-used and efficient Discord server. Office hours can become very busy but manages to give good feedback to everyone. [Quality: 5/5, Difficulty: 3/5] [Tags: Amazing lectures , Gives good feedback, Online Savvy]
+
+REVIEW (CS231, 2023-04): Bender might be the best professor at Colby. Very smart and his lectures are very interesting. Holds lots of office hours outside of class, even on Sundays when projects are due. [Quality: 5/5, Difficulty: 3/5] [Tags: Amazing lectures , Accessible outside class]

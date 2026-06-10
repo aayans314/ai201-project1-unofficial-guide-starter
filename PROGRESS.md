@@ -11,7 +11,7 @@ Working checklist for Project 1 (The Unofficial Guide). Checking things off as t
 
 - [x] M1: Choose domain + collect 10+ documents (19 docs: 13 r/Colby threads via PullPush + 6 RMP professor review sets via GraphQL, raw JSON in `data_raw/`)
 - [x] M2: planning.md complete (all sections, before pipeline code)
-- [ ] M3: Ingestion + cleaning + chunking pipeline, chunks inspected
+- [x] M3: Ingestion + cleaning + chunking pipeline, chunks inspected (257 chunks, median 321 chars)
 - [ ] M4: Embedding + ChromaDB + retrieval tested on 3+ eval queries
 - [ ] M5: Grounded generation + source attribution + Gradio interface
 - [ ] M6: Evaluation report, README, failure analysis

@@ -1,0 +1,36 @@
+TITLE: Rate My Professors reviews of Dale J. Skrien (Computer Science, Colby College)
+SOURCE: https://www.ratemyprofessors.com/professor/364345
+TYPE: rmp_reviews
+DATE: 2026-06
+
+SUMMARY: Professor Dale J. Skrien (Computer Science) has an average rating of 4.7/5 across 16 Rate My Professors reviews, with an average difficulty of 3.8/5.
+
+REVIEW (CS378, 2021-10): He loves you iff you can write everything in recursion. Recursion is not even faster or more efficient than looping in most languages. I guess he had to do that because too many people would receive an A in his class if he did not judge. [Quality: 3/5, Difficulty: 4/5] [Tags: Respected, Graded by few things, Clear grading criteria]
+
+REVIEW (CS378, 2019-05): I took four classes with Dale, starting my very first semester at Colby, and he's the reason I decided to major in computer science. His classes were among the most challenging but also the most rewarding I took at Colby. Incredibly kind, humble and patient professor, and an all-around great human-being. [Quality: 5/5, Difficulty: 4/5] [Tags: Respected, Caring, Tough grader]
+
+REVIEW (CS152, 2018-02): CS wizard at Colby - Shame he's going to retire soon. Succinct lectures, always willing to help, makes you work hard, but also a very fair professor. If you have the chance, take an upper level course with him because he's way more enthusiastic in those than intro classes. [Quality: 5/5, Difficulty: 3/5] [Tags: Respected, Participation matters, Amazing lectures]
+
+REVIEW (CS152, 2017-12): His lectures are good, quizzes are easy, the whole course is pretty much designed to let you pass as long as you do the weekly project. [Quality: 5/5, Difficulty: 3/5] [Tags: Gives good feedback, Participation matters, LOTS OF HOMEWORK]
+
+REVIEW (CS238CS378, 2015-10): 213 - The only complaint I've heard is that his grades are a bit harsh , which can be true occasionally but he usually is very fair with assignment grades. Good lectures for beginner Java students. 378 - By far my favorite class in Colby. 378 or "Theory of Computation" involves a lot of pure math and sinceDale used to teach that he does it vwell [Quality: 5/5, Difficulty: 3/5]
+
+REVIEW (CS461, 2014-06): We did compilers in this course, not really an "object-oriented system" per se as suggested by the title. Dale worked us very hard but I feel that I learned a bunch in this course. Dale has a very difficult grading scheme but he doesn't fail you had you tried (he couldn't do better had he tried). [Quality: 5/5, Difficulty: 4/5]
+
+REVIEW (CS151, 2014-05): Absolutely amazing, passionate, helpful, humble, clear, and skilled. Dale is always available on email to help (he'd reply within an hour usually, and within 6 hours on the breaks). Definitely the best teacher I've every had at Colby. [Quality: 5/5, Difficulty: 3/5]
+
+REVIEW (CS378, 2013-11): I think it was just me but I thought this class was quite easy (many in my class seem to disagree) but in class Dale is very clear and so much better at explaining things than the book (or really pretty much any other professor I have had) [Quality: 5/5, Difficulty: 1/5]
+
+REVIEW (CI151, 2013-05): I don't know if Dale has a grading scale, or if he just decides to fail every student that walks into his courses. His quizes are ridiculously difficult and he's not a fair grader. Would NOT recommend taking a course with him ever. [Quality: 2/5, Difficulty: 5/5]
+
+REVIEW (CSALL, 2012-05): Dale might be just the most committed professor I have ever encountered. Infinitely humble, immensely knowledgeable, he is truly dedicated to teaching and learning. Since Dale doesnt teach intros, do not expect an easy grade. Do not expect a good grade either. But expect to gain an inherent understanding of your beloved subject. That's what counts. [Quality: 5/5, Difficulty: 5/5]
+
+REVIEW (CSA, 2012-03): Dale is one of the finest professors at Colby. Endlessly kind, always available to help, and insanely knowledgeable, he's the favorite professor of many. He's deeply committed to teaching, and has a special talent for introducing beginners to CS. Take a class with him if you can. [Quality: 5/5, Difficulty: 5/5]
+
+REVIEW (OODSECT, 2006-10): I recently spoke to a Colby CS alum who was interested in hiring Colby students for his company. While trying to feel out how skilled I might be, I mentioned that I had taken 4 classes with Dale. That ended that discussion. Dale's projects are like working a full-time job, but you will learn more from him than any other professor at Colby. [Quality: 5/5, Difficulty: 5/5]
+
+REVIEW (CS, 2005-12): Dale is tough, but fair. He is an educator at heart, and wants you to get the most out of each and every class. His policies are very sensible, and he is always willing to help you when you are having trouble. Put in the effort, and you will have gotten more for your money than most Colby grads. [Quality: 5/5, Difficulty: 5/5]
+
+REVIEW (CS, 2005-05): Excellent prof. Gives a lot of homework, exams are tough, but he explains stuff very very well. Best professor I've ever seen. You learn an enormous amount of information from his classes. Once you've taken a class with him, you'll wanna keep taking his courses all the time. [Quality: 5/5, Difficulty: 4/5]
+
+REVIEW (CS, 2005-03): Probably the best professor I've ever had. Explains concepts and ideas very clearly and definitely challenges you to learn. Projects are difficult and frustrating at times and he is a tough grader. But it is worth it. If you're thinking of a career in Computer Science, take one of his classes. [Quality: 5/5, Difficulty: 4/5]

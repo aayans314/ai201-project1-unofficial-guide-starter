@@ -13,7 +13,7 @@ Working checklist for Project 1 (The Unofficial Guide). Checking things off as t
 - [x] M2: planning.md complete (all sections, before pipeline code)
 - [x] M3: Ingestion + cleaning + chunking pipeline, chunks inspected (257 chunks, median 321 chars)
 - [x] M4: Embedding + ChromaDB + retrieval tested on all 5 eval queries (4/5 top hits < 0.5 distance; dining query weakest at 0.537 rank 3 — noted for failure analysis)
-- [ ] M5: Grounded generation + source attribution + Gradio interface
+- [x] M5: Grounded generation + source attribution + Gradio interface (refusal tested on 2 out-of-scope queries; UI verified end-to-end on port 7860)
 - [ ] M6: Evaluation report, README, failure analysis
 - [ ] Demo video (recorded by me — script/queries prepared)
 
